@@ -168,7 +168,7 @@ header{
     display: flex;
     flex-direction: row;
   align-items: center;
-left: 28%;
+left: 25%;
 bottom: 0;
 padding: 12px;  
    font-size: 27px;
@@ -451,11 +451,11 @@ justify-content: center;
 }
 .service3 h3{
     position: absolute;
-    left: 860px;
+    left: 850px;
     right: 0;
 }
 footer{
-    height: 400px;
+    height: 450px;
     width: 100%;
     background-color: rgba(0, 0, 255, 0.686);
     position: relative;
