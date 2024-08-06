@@ -455,7 +455,7 @@ justify-content: center;
     right: 0;
 }
 footer{
-    height: 450px;
+    height: 500px;
     width: 100%;
     background-color: rgba(0, 0, 255, 0.686);
     position: relative;
@@ -819,7 +819,8 @@ bottom: 0px;
      }
      .service3 h3{
         position: absolute;
-        top: 1150px;
+        top: 1250px;
+         bottom:0;
         left: 10px;
         margin-top: 990px;
      }
@@ -828,7 +829,7 @@ bottom: 0px;
     position: relative;
     bottom: 0;
     letter-spacing: normal;
-    margin-top: 184vh;
+    margin-top: 188vh;
     width: 100%;
     display: flex;
     text-align: center;
@@ -843,8 +844,9 @@ bottom: 0px;
    footer p{
 display: flex;
 position: absolute;
+       
 left: 0;
-top: 100%;
+top: 80%;
    }
   
 }
